@@ -9,8 +9,8 @@
 |------|------|-----------------|
 |   [MANDELBAUM EMMA]   | Design     |                 |
 |   [LUNEL YOANN]   | Design     |                 |
-|   [PENIN ERWANN ROMAN]   | CFD     |                 |
-|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation     |                 |
+|   [PENIN ERWANN ROMAN]   | CFD     |                 | ErwannPenin
+|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation     |  MiguelAndriano              |
 
 
 

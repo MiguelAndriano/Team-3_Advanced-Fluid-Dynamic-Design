@@ -7,7 +7,6 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [MANDELBAUM EMMA]   | Design     |                 |
 |   [LUNEL YOANN]   | Design     | YoxLunel                |
 |   [PENIN ERWANN ROMAN]   | CFD     | ErwannPenin                 | 
 |   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation     |  MiguelAndriano              |

@@ -8,8 +8,8 @@
 | Name | Role | GitHub username |
 |------|------|-----------------|
 |   [MANDELBAUM EMMA]   | Design     |                 |
-|   [LUNEL YOANN]   | Design     |                 |
-|   [PENIN ERWANN ROMAN]   | CFD     |                 | ErwannPenin
+|   [LUNEL YOANN]   | Design     | YoxLunel                |
+|   [PENIN ERWANN ROMAN]   | CFD     | ErwannPenin                 | 
 |   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation     |  MiguelAndriano              |
 
 
@@ -26,7 +26,7 @@ Target specifications:
 - Rotational speed: 
 
 ## Team's work regulations:
- Meeting Team :
+ Meeting Team every Monday at 14h
 
 ## Next Steps
 [] Every member has to list 3 fans in order of preference

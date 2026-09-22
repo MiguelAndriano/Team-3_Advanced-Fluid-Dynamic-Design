@@ -7,15 +7,15 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [LUNEL YOANN]   | Design     | YoxLunel                |
+|   [LUNEL YOANN]   | Design     | YoxLunel / Leader                |
 |   [PENIN ERWANN ROMAN]   | CFD     | ErwannPenin                 | 
-|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation / Leader    |  MiguelAndriano              |
+|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation |  MiguelAndriano              |
 
 
 
 ## Project Title
 
-[Title]
+PC Fans for heating down the tower
 
 
 ## Brief description
@@ -27,6 +27,8 @@ Target specifications:
 ## Team's work regulations:
  Meeting Team every Monday at 14h
 
-## Next Steps
-[] Every member has to list 3 fans in order of preference
-[] 
+## Manufacturer References
+Noctua Fan
+
+
+

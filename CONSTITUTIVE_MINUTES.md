@@ -9,7 +9,7 @@
 |------|------|-----------------|
 |   [LUNEL YOANN]   | Design     | YoxLunel                |
 |   [PENIN ERWANN ROMAN]   | CFD     | ErwannPenin                 | 
-|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation / leader    |  MiguelAndriano              |
+|   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation / Leader    |  MiguelAndriano              |
 
 
 

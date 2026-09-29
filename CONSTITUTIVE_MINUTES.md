@@ -7,7 +7,7 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [LUNEL YOANN]   | Design     | YoxLunel / Leader                |
+|   [LUNEL YOANN]   | Design     | YoannLunel / Leader                |
 |   [PENIN ERWANN ROMAN]   | CFD     | ErwannPenin                 | 
 |   [ANDRIANO GRANADOS MIGUEL ANGEL]   | Experimentation |  MiguelAndriano              |
 

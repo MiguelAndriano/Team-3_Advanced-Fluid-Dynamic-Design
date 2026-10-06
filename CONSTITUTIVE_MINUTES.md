@@ -20,15 +20,16 @@ PC Fans for heating down the tower
 
 ## Brief description
 Target specifications:
-- Flow rate: 
-- Pressure rise: 
-- Rotational speed: 
+- Flow rate: 95 m^3/h
+- Pressure rise: 3 mm H_2O
+- Rotational speed: 1800 rpm
 
 ## Team's work regulations:
  Meeting Team every Monday at 14h
 
 ## Manufacturer References
-Noctua Fan
+Noctua Fan - NF-A12x25 G2 PWM chromax
+Artic - P12 Pro LN
 
 
 

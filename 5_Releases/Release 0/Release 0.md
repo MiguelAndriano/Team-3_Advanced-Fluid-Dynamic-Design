@@ -62,3 +62,12 @@ This documentation permits to define the characteristics of the PC fans of this 
 - Number of blades : 8
 - Hub diameter (central hub): 50 mm
 - Blade length (individual blade): 34.5 mm
+
+## Repartition of team-work
+Each of us specializes in a specific area (design, experiment, CFD), but we all share the required workload. For example, for D1 and D2, we all contributed to the notebook. Even though only the person in charge of the notebook usually pushes it to GitHub, this allows us to cross-check everyone's work, compare our results, and improve our code logic. It is also important for non-specialists to understand what the experts are doing, so they don't feel lost during classes or exams.
+
+We discuss our results in our WhatsApp group or whenever we meet in person—there is no dedicated meeting time for this. This works well because we can ask questions and verify things right when we need to.
+
+
+
+

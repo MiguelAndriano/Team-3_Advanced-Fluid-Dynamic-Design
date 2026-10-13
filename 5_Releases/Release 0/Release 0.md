@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Logo de l'école ESEIAAT (UPC) -->
-![Logo ESEIAAT](https://eseiaat.upc.edu/ca/shared/imatges/logotips/logo_eseiaat.png)
-
+![Logo UPC](https://github.com/MiguelAndriano/Team-3_Advanced-Fluid-Dynamic-Design/blob/main/UPC_logos/LOGO_UPC.png)
 ***
 
 # **PC Fans for heating down the tower**
-### *Advanced Fluid Dynamic Design*
+### *Advanced Fluid Dynamics Design*
 
 <br>
 
@@ -16,7 +15,7 @@
 <br>
 <br>
 
-### **Teams member**
+### **Team members**
 
 | Name| Role| Github username |
 | :--- | :--- | :--- | 

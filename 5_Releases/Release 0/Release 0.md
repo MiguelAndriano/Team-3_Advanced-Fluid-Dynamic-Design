@@ -31,7 +31,7 @@
 **University :** ESEIAAT - Universitat Politècnica de Catalunya (UPC)  
 **Course :** Advanced Fluid Dynamics Design         
 **School year :** 2026 – 2027  
-**Date :** [Date du jour]
+**Date :** [13/10/26]
 
 
 </div>
